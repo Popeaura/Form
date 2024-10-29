@@ -34,13 +34,6 @@ input[type="password"] {
     box-sizing: border-box;    /* Ensures padding is included in width */
 }
 
-/* Style the table */
-table {
-    width: 100%;               /* Full width table */
-    border-collapse: collapse; /* Removes gaps between cells */
-    margin-top: 20px;          /* Adds space above the table */
-}
-
 button{
     background-color: #ccc;
     color: black;
