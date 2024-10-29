@@ -52,3 +52,10 @@ th, td {
 header h1, header p {
     text-align: center;
 }
+
+button{
+    background-color: #ccc;
+    color: aqua;
+    border: #f9f9f9;
+    
+}
