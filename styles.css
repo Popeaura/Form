@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;   
     align-items: center;      
-    background-color: #f9f9f9; /* Light background for the section */
+    background-color: #f9f9f9;
     padding: 20px;          
 }
 
@@ -13,10 +13,7 @@
     padding: 20px;             /* Padding inside the form container */
     border-radius: 8px;        /* Rounded corners */
     max-width: 800px;          /* Limits the container width */
-    width: 100%;               /* Full width up to max-width */
-    height: 100%;
-    max-height: 800px;
-}
+    width: 50%;               /* Full width up to max-wid}
 
 /* Align labels and inputs vertically */
 label, input {
