@@ -41,17 +41,6 @@ table {
     margin-top: 20px;          /* Adds space above the table */
 }
 
-th, td {
-    padding: 10px;             /* Padding inside table cells */
-    border: 1px solid #ccc;    /* Border around cells */
-    text-align: left;          /* Left-aligns text in cells */
-}
-
-/* Optional: Center-align the h1 and paragraph */
-header h1, header p {
-    text-align: center;
-}
-
 button{
     background-color: #ccc;
     color: black;
