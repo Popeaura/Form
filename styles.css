@@ -59,5 +59,9 @@ button{
     width: 100px;
     height: 30px;
     border-radius: 8px;
+}
 
+.btn{
+    display: flex;
+    justify-content: center;
 }
