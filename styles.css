@@ -13,7 +13,6 @@
     background-color: rgb(124, 120, 120);   /* White background for the form area */
     padding: 20px;             /* Padding inside the form container */
     border-radius: 8px;        /* Rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     max-width: 600px;          /* Limits the container width */
     width: 100%;               /* Full width up to max-width */
 }
@@ -55,7 +54,7 @@ header h1, header p {
 
 button{
     background-color: #ccc;
-    color: aqua;
+    color: black;
     border: #f9f9f9;
     width: 50px;
     height: 30px;
